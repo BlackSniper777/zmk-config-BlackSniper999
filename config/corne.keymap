@@ -107,7 +107,7 @@
 
         layer_3 {
             bindings = <
-&sys_reset  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &bootloader
+&sys_reset  &kp D   &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &bootloader
 &trans      &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
 &trans      &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
                             &trans  &trans  &trans    &trans  &trans  &trans
